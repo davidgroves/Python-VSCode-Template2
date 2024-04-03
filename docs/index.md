@@ -4,8 +4,8 @@
 
 ### Arithmetic Module
 
-::: python_vscode_template.arithmetic
+::: python_vscode_template2.arithmetic
 
 ### Pokemon Module
 
-::: python_vscode_template.pokemon
+::: python_vscode_template2.pokemon

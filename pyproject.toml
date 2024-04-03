@@ -11,7 +11,7 @@ requires-python = ">=3.10"
 license = {file = "LICENSE"}
 
 [project.scripts]
-my_script = "python_vscode_template.my_script:main"
+my_script = "python_vscode_template2.my_script:main"
 
 [project.urls]
 Home = "https://github.com/davidgroves/Python-VSCode-Template2"

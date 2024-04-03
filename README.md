@@ -107,7 +107,7 @@ plugins: asyncio-0.21.1, anyio-3.7.1, cov-4.1.0
 asyncio: mode=Mode.STRICT
 collected 1 item                                                                                                                      
 
-src/python_vscode_template/arithmetic.py .                                                [100%]                                          
+src/python_vscode_template2/arithmetic.py .                                                [100%]                                          
 ====================================== 1 passed in 0.03s =======================================
 ```
 
@@ -167,7 +167,7 @@ You can click on it to view the logs and see what tests have passed, or what tes
 
 ## Docstrings
 
-See [arithmetic.py](src/python_vscode_template/arithmetic.py) for example docstrings. These are in [Google Docstring Format](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
+See [arithmetic.py](src/python_vscode_template2/arithmetic.py) for example docstrings. These are in [Google Docstring Format](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
 
 ## Dist
 
